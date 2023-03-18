@@ -2,8 +2,9 @@
 
 Este é um projeto de Landing Page Data Science. 
 
-O projeto foi estruturado, a partir da atividade proposta do módulo ReactJS, Frontend 3, da formação STARTER FULL STACK WEB DEVELOPER, pela @Growdev.
+O projeto foi estruturado, a partir da atividade proposta do módulo ReactJS, Frontend 3, da formação <strong>STARTER FULL STACK WEB DEVELOPER<strong>, pela @Growdev.
 ## Layout mobile
+
 ![Mobile 1](https://github.com/46Stephan/landing_pages_data_science-master/blob/master/src/img/img3.JPG) ![Mobile 2](https://github.com/46Stephan/landing_pages_data_science-master/blob/master/src/img/img4.JPG)
 
 ## Layout web
