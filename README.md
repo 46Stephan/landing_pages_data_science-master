@@ -21,14 +21,14 @@ O projeto foi estruturado, a partir da atividade proposta do módulo ReactJS, Fr
 
 # Autores
 
-Assis Junior <br>
+Assis Junior 
 https://www.linkedin.com/in/assis-junior/
 
-Igor Matos <br>
+Igor Matos 
 https://www.linkedin.com/in/igor-matos-22815b98/
 
-Stephan Costa <br>
+Stephan Costa 
 https://www.linkedin.com/in/steph%C3%A0n-costa-291715196/
 
-Vitor da Silva Dias <br>
+Vitor da Silva Dias 
 https://www.linkedin.com/in/vitor-da-silva-dias-2b24a0233/
