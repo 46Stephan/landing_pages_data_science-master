@@ -19,6 +19,8 @@ O projeto foi estruturado, a partir da atividade proposta do módulo ReactJS, Fr
 - ReactJS;
 - MUI;
 
+https://landing-pages-data-science.vercel.app/
+
 # Autores
 
 Assis Junior 
