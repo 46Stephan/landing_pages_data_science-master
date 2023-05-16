@@ -15,9 +15,9 @@ O projeto foi estruturado, a partir da atividade proposta do módulo ReactJS, Fr
 # Tecnologias utilizadas
 
 ## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- MUI
+- HTML / CSS / JS / TypeScript;
+- ReactJS;
+- MUI;
 
 https://landing-pages-data-science.vercel.app/
 
