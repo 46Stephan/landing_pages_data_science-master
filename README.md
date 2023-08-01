@@ -23,14 +23,14 @@ https://landing-pages-data-science.vercel.app/
 
 # Autores
 
-Assis Junior; 
+Assis Junior
 https://www.linkedin.com/in/assis-junior/
 
-Igor Matos; 
+Igor Matos
 https://www.linkedin.com/in/igor-matos-22815b98/
 
-Stephan Costa; 
+Stephan Costa
 https://www.linkedin.com/in/steph%C3%A0n-costa-291715196/
 
-Vitor da Silva Dias; 
+Vitor da Silva Dias
 https://www.linkedin.com/in/vitor-da-silva-dias-2b24a0233/
